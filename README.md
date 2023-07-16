@@ -1,7 +1,5 @@
-# Students-management-spring-boot
 
-
-# Mini Students Management Project using
+# Crud Students Management Project using
 <li>Spring Boot <br>
 <li>Spring MVC <br>
 <li>Spring Security <br> 
