@@ -1,9 +1,12 @@
-# Etudiant-management-spring-boot
+# Students-management-spring-boot
 
 
-# Mini Etudiant Management Project using Spring Boot + Spring MVC + Spring Security + JSP + Hibernate + MySQL
+# Mini Students Management Project using
+<li>Spring Boot <br>
+<li>Spring MVC <br>
+<li>Spring Security <br> 
+<li>JSP <br>
+<li>Hibernate<br>
+<li>MySQL<br>
 
-"# test" 
-"# Crud-Student-management-spring-boot" 
-"# Student-management-spring-boot" 
-"# Student-management-spring-boot" 
+ 
